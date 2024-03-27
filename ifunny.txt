@@ -8,12 +8,14 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+0.0.0.0 1100023089.sdk-hb.smaato.net
 0.0.0.0 aax-us-east.amazon-adsystem.com
 0.0.0.0 aax.amazon-adsystem.com
 0.0.0.0 amazon-adsystem.com
 0.0.0.0 amp-api-edge.apps.apple.com
 0.0.0.0 analytics.atom.ai.verve.com
 0.0.0.0 api-us-was.bidmachine.io
+0.0.0.0 api.appodealx.com
 0.0.0.0 api.bidmachine.io
 0.0.0.0 api.dollphoin.site
 0.0.0.0 api.firwinds.site
