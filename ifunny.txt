@@ -1,0 +1,86 @@
+# Title: Consolecable's Ifunny Ad Blocklist
+# Updated: 3/26/2024 22:17
+# Sources: Iphone app privacy report
+# 
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+
+0.0.0.0 aax-us-east.amazon-adsystem.com
+0.0.0.0 aax.amazon-adsystem.com
+0.0.0.0 amazon-adsystem.com
+0.0.0.0 amp-api-edge.apps.apple.com
+0.0.0.0 analytics.atom.ai.verve.com
+0.0.0.0 api-us-was.bidmachine.io
+0.0.0.0 api.bidmachine.io
+0.0.0.0 api.dollphoin.site
+0.0.0.0 api.firwinds.site
+0.0.0.0 api.haobird.site
+0.0.0.0 api.iad3rs0zone1.pubnative.net
+0.0.0.0 api.iad3rs0zone2.pubnative.net
+0.0.0.0 api.iad3rs0zone3.pubnative.net
+0.0.0.0 api.iad3rs0zone4.pubnative.net
+0.0.0.0 api.iad3rs0zone5.pubnative.net
+0.0.0.0 api.iad3rs0zone6.pubnative.net
+0.0.0.0 api.snapkit.com
+0.0.0.0 app-measurement.com
+0.0.0.0 b.de.inmobi.com
+0.0.0.0 bidmachine.io
+0.0.0.0 blueduckredapple.com
+0.0.0.0 br-trk.smadex.com
+0.0.0.0 cdn-f.adsmoloco.com
+0.0.0.0 cdn-lb.vungle.com
+0.0.0.0 cdn.liftoff-creative.io
+0.0.0.0 cdn.liftoff-creatives.io
+0.0.0.0 cdn2.inner-active.mobi
+0.0.0.0 config.ads.vungle.com
+0.0.0.0 configuration.atom.ai.verve.com
+0.0.0.0 d.applovin.com
+0.0.0.0 doubleclick.net
+0.0.0.0 dspbeacons.ihasdsp.inmobi.com
+0.0.0.0 dspbeacons.old.ihasdsp.inmobi.com
+0.0.0.0 edge.safedk.com
+0.0.0.0 et-eus.w.inmobi.com
+0.0.0.0 eus.r.inmobi.com
+0.0.0.0 events.ads.vungle.com
+0.0.0.0 firebase-settings.crashlytics.com
+0.0.0.0 g.doubleclick.net
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 graph.facebook.com
+0.0.0.0 gwbudgetali.iymedia.me
+0.0.0.0 i.l.inmobicnd.net
+0.0.0.0 ic.de.inmobi.com
+0.0.0.0 impression-east.liftoff.io
+0.0.0.0 impression.appsflyer.com
+0.0.0.0 ipinfo.io
+0.0.0.0 k8s-cronus-cronus0s-6fcf628a42-5d6f32117edb-c05a.elb.us-east-1.amazonaws.com
+0.0.0.0 launches.appsflyer.com
+0.0.0.0 logs.ikmytech.com
+0.0.0.0 ms.applovin.com
+0.0.0.0 ms.applvn.com
+0.0.0.0 ms4.applovin.com
+0.0.0.0 ms4.applvn.com
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 prod-mediate-events.applovin.com
+0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 res1.applovin.com
+0.0.0.0 rt.applovin.com
+0.0.0.0 s.dessaly.com
+0.0.0.0 safedk.com
+0.0.0.0 sap.flurrypro.com
+0.0.0.0 sdk-files.smaato.net
+0.0.0.0 ssl.smarterbidder.com
+0.0.0.0 stage-mediate-events.applovin.com
+0.0.0.0 static-content-1.smadex.com
+0.0.0.0 supply.inmobicdn.com
+0.0.0.0 track-eu.bidmachine.io
+0.0.0.0 unifiedbidding.ad.smaato.net
+0.0.0.0 us01.rayjump.com
+0.0.0.0 view.adjust.com
+0.0.0.0 w.everestop.io
+0.0.0.0 web.facebook.com
+0.0.0.0 x.blueduckredapple.com
+0.0.0.0 x.everestop.io
+0.0.0.0 x.thecatmachine.com
