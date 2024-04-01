@@ -73,6 +73,7 @@
 0.0.0.0 s.dessaly.com
 0.0.0.0 safedk.com
 0.0.0.0 sap.flurrypro.com
+0.0.0.0 sdk-events.inner-active.mobi
 0.0.0.0 sdk-files.smaato.net
 0.0.0.0 ssl.smarterbidder.com
 0.0.0.0 stage-mediate-events.applovin.com
@@ -84,6 +85,7 @@
 0.0.0.0 view.adjust.com
 0.0.0.0 w.everestop.io
 0.0.0.0 web.facebook.com
+0.0.0.0 wv.inner-active.mobi
 0.0.0.0 x.blueduckredapple.com
 0.0.0.0 x.everestop.io
 0.0.0.0 x.thecatmachine.com
