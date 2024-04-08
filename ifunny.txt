@@ -11,6 +11,7 @@
 0.0.0.0 1100023089.sdk-hb.smaato.net
 0.0.0.0 aax-us-east.amazon-adsystem.com
 0.0.0.0 aax.amazon-adsystem.com
+0.0.0.0 adexp.liftoff.io
 0.0.0.0 amazon-adsystem.com
 0.0.0.0 amp-api-edge.apps.apple.com
 0.0.0.0 analytics.atom.ai.verve.com
@@ -26,6 +27,7 @@
 0.0.0.0 api.iad3rs0zone4.pubnative.net
 0.0.0.0 api.iad3rs0zone5.pubnative.net
 0.0.0.0 api.iad3rs0zone6.pubnative.net
+0.0.0.0 api.liftoff.io
 0.0.0.0 api.snapkit.com
 0.0.0.0 app-measurement.com
 0.0.0.0 b.de.inmobi.com
@@ -34,6 +36,7 @@
 0.0.0.0 br-trk.smadex.com
 0.0.0.0 cdn-f.adsmoloco.com
 0.0.0.0 cdn-lb.vungle.com
+0.0.0.0 cdn.doubleverify.com
 0.0.0.0 cdn.liftoff-creative.io
 0.0.0.0 cdn.liftoff-creatives.io
 0.0.0.0 cdn2.inner-active.mobi
